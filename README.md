@@ -82,7 +82,7 @@ O chatbot utiliza `Math.random()` para escolher uma resposta e `Math.floor()` pa
 
 ## Uso de Inteligência Artificial
 
-Ferramentas de IA foram utilizadas como apoio para analisar os requisitos da Sprint, planejar a componentização, auxiliar na migração do código vanilla para React e revisar a documentação e os testes. Todo o código foi organizado para permanecer compatível com o nível de conhecimento da equipe e deve ser revisado e compreendido pelos integrantes antes da entrega. A JOVI AI exibida na interface é uma simulação local e não consome uma API de inteligência artificial.
+Ferramentas de IA foram usadas principalmente para ajuda no entendimento do React tendo em vista que era uma ferramente em que os integrantes não possuiam muita experiência, e posteriormente para revisão do código para garantir que o projeto cumpria todos os requisitos da tarefa. No final o README.md também foi criado com auxilio da IA, garantindo que nenhuma parte do projeto deixe de ser citada.
 
 ## Estrutura principal
 
