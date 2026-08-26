@@ -2,6 +2,10 @@
 
 Projeto da Sprint 3 de Web Development do Challenge JOVI 2026. A aplicação simula a interface de câmera de um smartphone e foi migrada de HTML, CSS e JavaScript vanilla para React, preservando o visual original.
 
+# Protótipo da Precision Camera
+
+Link do Vercel: https://sprint-3-web-development-delta.vercel.app/
+
 ## Funcionalidades
 
 - Seleção dos modos Night, Portrait, Photo, Video e Mais.
@@ -96,13 +100,6 @@ src/
 ├── App.jsx
 └── main.jsx
 ```
-
-## Repositório e deploy
-
-- Repositório Git: https://github.com/Mestresupremo38/jovi-sprint3-react
-- Deploy na Vercel: **PENDENTE - inserir o link antes da entrega final.**
-
-Nenhum deploy foi realizado durante esta migração local.
 
 ## Integrantes
 
